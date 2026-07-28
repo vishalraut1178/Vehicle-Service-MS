@@ -1,0 +1,29 @@
+.table-container {
+  overflow-x: auto;
+}
+
+.customer-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.customer-table th,
+.customer-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+.customer-table th {
+  background: #2563eb;
+  color: white;
+}
+
+.customer-table tr:nth-child(even) {
+  background: #f8f9fa;
+}
+
+.customer-table tr:hover {
+  background: #eef4ff;
+}

@@ -5,8 +5,6 @@ import api from './Services/api';
 import Navbar from './Components/Navbar';
 import VehicleForm from './Components/VehicleForm';
 import ServiceRecordsForm from './Components/ServiceRecordsForm';
-import CustomerCard from './Components/CustomerCard';
-import VehicleCard from './Components/VehicleCard';
 
 import CustomerVehicleTable from "./Components/CustomerVehicleTable";
 import "./Components/CustomerVehicleTable.css";
